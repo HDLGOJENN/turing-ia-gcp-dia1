@@ -56,6 +56,7 @@ dia1-cloud-function/
 │   └── procesador.test.js
 ├── docs/
 │   └── configuracion-storage.md
+│   └── arquitectura.md
 ├── evidencias/
 └── README.md
 ```
